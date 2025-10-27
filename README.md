@@ -32,7 +32,7 @@ The site was actively used by many students at **LaSalle College, Montréal**, a
 ## 🧠 Tech Stack
 
 * **Frontend:** HTML, CSS
-* **Deployment:** [Vercel](https://vercel.com/)
+* **Deployment:** Vercel
 * **Version Control:** Git + GitHub
 
 ---
@@ -44,13 +44,3 @@ The site was actively used by many students at **LaSalle College, Montréal**, a
 * Enhanced visibility of TechWeek events and improved planning efficiency.
 
 ---
-
-## 🧩 Project Structure
-
-```
-TechWeekSchedule/
-│
-├── index.html        # Main page layout
-├── styles.css        # UI styling and color scheme
-└── README.md         # Project documentation
-```
