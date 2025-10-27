@@ -1,6 +1,6 @@
 # 🗓️ TechWeek Schedule
 
-A web app built to help students and attendees plan their week during **TechWeek at LaSalle College Montréal 2025** - a seven-day event of panels, workshops, and challenges for the tech community.
+A bilingual web app built to help students and attendees plan their week during **TechWeek at LaSalle College Montréal 2025** - a seven-day event of panels, workshops, and challenges for the tech community.
 
 🌐 **Live Website:** [tech-week-schedule.vercel.app](https://tech-week-schedule.vercel.app)
 
