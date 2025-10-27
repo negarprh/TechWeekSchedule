@@ -6,6 +6,12 @@ A web app built to help students and attendees plan their week during **TechWeek
 
 ---
 
+📸 Preview
+
+![Demo](./demo/techweekdemo.gif)
+
+---
+
 ## 📖 Overview
 
 **TechWeek Schedule** lets users explore daily events, discover highlights, and organize their participation easily.
