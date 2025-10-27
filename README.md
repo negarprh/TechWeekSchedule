@@ -1,6 +1,6 @@
 # 🗓️ TechWeek Schedule
 
-A web app built to help students and attendees plan their week during **TechWeek Montréal 2025** — a seven-day event of panels, workshops, and challenges for the tech community.
+A web app built to help students and attendees plan their week during **TechWeek at LaSalle College Montréal 2025** - a seven-day event of panels, workshops, and challenges for the tech community.
 
 🌐 **Live Website:** [tech-week-schedule.vercel.app](https://tech-week-schedule.vercel.app)
 
@@ -48,15 +48,3 @@ TechWeekSchedule/
 ├── styles.css        # UI styling and color scheme
 └── README.md         # Project documentation
 ```
-
----
-
-## 👩‍💻 Author
-
-**Negar PR**
-Student Developer | Montréal, QC
-[GitHub Profile](https://github.com/negarprh)
-
----
-
-Would you like me to make a **shorter portfolio version** (1-paragraph format) to include in your GitHub profile or resume?
